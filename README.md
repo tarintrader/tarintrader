@@ -1,6 +1,6 @@
 #  🌍 Adrián Tarín
-👨🏻‍💻 Full Stack Developer candidate to start a career in tech<br>
-👨🏻‍🎓 Studying intensely in a self-taught way<br>
+👨🏻‍💻 Full Stack Developer with Python proficiency<br>
+👨🏻‍🎓 Bachelor Degree in Commerce and Marketing<br>
 🛠️ Always putting theory into practice with my own projects<br>
 💭 Currently learning about Python and its multiple uses<br>
 💪 Highly motivated. In continuous growth and preparation
