@@ -28,8 +28,9 @@ I have completed several trainings to improve my skills and have a solid foundat
 - [**Application Development using Microservices and Serverless**](https://www.coursera.org/account/accomplishments/verify/C5PCCBA2NXRC)
 - [**Full Stack Cloud Development Capstone Project**](https://www.coursera.org/account/accomplishments/verify/PGY8RL5YML79)
 - [**Full Stack Software Developer Assessment**](https://www.coursera.org/account/accomplishments/verify/PTPDYCFNRUV6)
+- [**Introduction to DevOps**](https://www.coursera.org/account/accomplishments/verify/J9F8UE2S6VQY)
+- [**Introduction to Agile Development and Scrum**](https://www.coursera.org/account/accomplishments/verify/RTSFZW7FUYMG)
 
-  
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tarintrader&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarintrader&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
